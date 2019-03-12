@@ -1,0 +1,336 @@
+13 Mar 2019 00:28:54 [main] INFO  com.app.main.Main - Task Excecution started
+13 Mar 2019 00:28:54 [main] INFO  com.app.main.Main - initialize consumer threads
+13 Mar 2019 00:28:54 [main] INFO  com.app.main.Main - storing consumer threads in a arraylist
+13 Mar 2019 00:28:54 [main] INFO  com.app.main.Main - triggering producer thread
+13 Mar 2019 00:28:54 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 10.0
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - Started Deposit thread
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  1010.0
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  2010.0
+13 Mar 2019 00:28:54 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 1910.0
+13 Mar 2019 00:28:54 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 1910.0
+13 Mar 2019 00:28:54 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 2810.0
+13 Mar 2019 00:28:54 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 2810.0
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  2810.0
+13 Mar 2019 00:28:54 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 3710.0
+13 Mar 2019 00:28:54 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 3710.0
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  3710.0
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  4610.0
+13 Mar 2019 00:28:54 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 4610.0
+13 Mar 2019 00:28:54 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 4610.0
+13 Mar 2019 00:28:54 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 4510.0
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  5510.0
+13 Mar 2019 00:28:54 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 4510.0
+13 Mar 2019 00:28:54 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 6410.0
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  6410.0
+13 Mar 2019 00:28:54 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 6410.0
+13 Mar 2019 00:28:54 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 7410.0
+13 Mar 2019 00:28:54 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 7310.0
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  7410.0
+13 Mar 2019 00:28:54 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 7210.0
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  8210.0
+13 Mar 2019 00:28:54 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 7310.0
+13 Mar 2019 00:28:54 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 8110.0
+13 Mar 2019 00:28:54 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 8110.0
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  9110.0
+13 Mar 2019 00:28:54 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 9010.0
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  10010.0
+13 Mar 2019 00:28:54 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 9110.0
+13 Mar 2019 00:28:54 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 10910.0
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  10910.0
+13 Mar 2019 00:28:54 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 10910.0
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  11810.0
+13 Mar 2019 00:28:54 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 11810.0
+13 Mar 2019 00:28:54 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 11810.0
+13 Mar 2019 00:28:54 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 12710.0
+13 Mar 2019 00:28:54 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  12810.0
+13 Mar 2019 00:28:54 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 12810.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 13610.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 13610.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  13710.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 14510.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 14510.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  14510.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  15410.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 14410.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 14410.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  16410.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 16310.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 16310.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 17210.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 17210.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  17210.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 18110.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 18110.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  18110.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 18010.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  19010.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 18010.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  20010.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 20010.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 19910.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 20810.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  20810.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 20810.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  21710.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 20710.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 20710.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 21610.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 22610.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  22610.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 23510.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  23510.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 23510.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  24410.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 24410.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 24410.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  25410.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 25310.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 25310.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  26310.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 26210.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 26210.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 26110.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  27110.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 27110.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  28110.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 28110.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 28010.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  29010.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 29010.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 28910.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 29810.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  29810.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 29810.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 30710.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  30710.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 30710.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  31610.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 30710.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 30610.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 32510.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 32510.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  32510.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 33410.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  33410.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 33410.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 33310.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 33410.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  34310.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 35210.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  35210.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 35210.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 36110.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  36110.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 36110.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 36110.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  37010.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 36010.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  37910.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 37010.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 36910.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 38810.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  38910.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 38910.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 39710.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  39710.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 39710.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 40710.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 40610.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  40710.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 41510.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  41510.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 41510.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  42510.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  43410.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 42410.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 42410.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  44410.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 44310.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 45310.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  45310.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  46210.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 45210.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 45210.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 47110.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 47110.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  47110.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 47110.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 47010.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  48010.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 48910.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 47910.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  48910.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  49910.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 49810.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 49910.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 50710.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 50710.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  50710.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 50610.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 50610.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  51610.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 51610.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 51510.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  52510.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 52410.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  53410.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 52510.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 53310.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  54310.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 53310.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 55210.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  55210.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 55210.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 56210.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 56110.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  56210.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 56010.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 57010.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  57010.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 56910.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 57910.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  57910.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 57810.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  58810.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 57810.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  59810.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 59710.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 59810.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 60610.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 60610.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  60610.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 60510.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 60610.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 61410.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  61410.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 61410.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 62310.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  62310.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 62310.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  63310.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 63210.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 63310.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  64210.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 64110.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 64210.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  65110.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 65010.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 65010.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  66010.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 66010.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 65910.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  66910.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 66810.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 66910.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  67810.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 67710.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 67710.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  68710.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 68610.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 68710.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  69610.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 69610.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 69510.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  70510.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 70410.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 70410.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 71310.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 71310.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  71310.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 72210.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 72210.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  72210.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 73110.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 72110.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  73110.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 73010.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  74010.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 73110.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 74910.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 74910.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  74910.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 74810.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  75810.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 74910.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 76710.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  76710.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 76710.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 77610.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 76610.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  77610.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  78510.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 77610.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 77510.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 79510.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 79410.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  79510.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 80310.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  80310.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 80210.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  81210.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 81110.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 82110.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  82110.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  83010.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 83010.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 83010.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 83910.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 83910.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  83910.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 83810.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  84810.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 83810.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 84710.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  85710.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 84710.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 85610.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  86610.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 85610.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 87610.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 87510.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  87610.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 88410.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  88510.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 88510.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 88310.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 88310.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  89310.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  90210.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 89210.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 89210.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 91110.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 91110.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  91210.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  92110.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 92010.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 92110.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 92910.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  93010.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 93010.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 93810.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  93810.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 93810.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 94710.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 93810.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  94810.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 94610.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 94710.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  95610.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 96510.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  96510.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 96510.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 97510.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 97410.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  97510.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 98410.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  98410.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 98310.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 99310.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  99310.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 99210.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 99110.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 99210.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - add data producer :  100110.0
+13 Mar 2019 00:28:55 [Thread-1] INFO  com.app.consumer.Withddraw - account balance after withdraw is : 100010.0
+13 Mar 2019 00:28:55 [Thread-2] INFO  com.app.consumer.Withddraw - account balance is : 100010.0
+13 Mar 2019 00:28:55 [Thread-3] INFO  com.app.producer.Deposit - closing all consumer threads

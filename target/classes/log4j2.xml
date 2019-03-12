@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration >
+	<Appenders >
+		<RollingFile name="RollingFile" fileName="logs/app.log" filePattern="logs/app-%i.log">
+			<PatternLayout>
+				<Pattern>%d{dd MMM yyyy HH:mm:ss} [%t] %-5level %logger{36} - %msg%n</Pattern>
+			</PatternLayout>
+			<Policies>
+				<SizeBasedTriggeringPolicy size="4 MB"/>
+			</Policies>
+			<DefaultRolloverStrategy max="3" />
+		</RollingFile>
+	</Appenders>
+	
+	<Loggers>
+		<Root level="trace">
+		      <AppenderRef ref="RollingFile" />
+		</Root>
+	</Loggers>
+</configuration>
